@@ -1,0 +1,19 @@
+p{
+    color: red;
+    text-align: center;
+    font-style: initial;
+}
+
+.bekezdes {
+    color: bisque;
+    text-align: right;
+    text-decoration: dashed;
+}
+
+#napos {
+
+size: 80px;
+color: aqua;
+font-family: 'Courier New', Courier, monospace;
+}
+
